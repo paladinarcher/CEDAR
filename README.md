@@ -1,1 +1,1 @@
-# CEDAR
+# Open-designs
