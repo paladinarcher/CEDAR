@@ -2,7 +2,7 @@
 name: Design Story
 about: For Design Stories
 title: Template Design Story
-labels: ''
+labels: Enabler Story
 assignees: ''
 
 ---

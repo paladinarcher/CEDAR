@@ -2,7 +2,7 @@
 name: MVP Epic Template
 about: For MVP Epics
 title: ''
-labels: ''
+labels: Epic
 assignees: ''
 
 ---
